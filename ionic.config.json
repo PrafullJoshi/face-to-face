@@ -1,0 +1,11 @@
+{
+  "name": "Face2FaceHealth",
+  "integrations": {},
+  "type": "angular",
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "https://f2f-qa.kiwireader.com/api"
+    }
+  ]
+}
